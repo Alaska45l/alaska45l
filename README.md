@@ -18,7 +18,7 @@
 
 ## `$ cat about.txt`
 
-Soy **Alaska Elaina González**, 23 años, Mar del Plata. Estudio Física en la UNMDP mientras construyo herramientas de automatización, investigo superficies de ataque y mantengo una alergia crónica al código que no entiende por qué hace lo que hace.
+Soy **Alaska Elaina Gonzalez**, 23 años, Mar del Plata. Estudio Física en la UNMDP mientras construyo herramientas de automatización, investigo superficies de ataque y mantengo una alergia crónica al código que no entiende por qué hace lo que hace.
 
 ---
 
@@ -70,8 +70,6 @@ Soy **Alaska Elaina González**, 23 años, Mar del Plata. Estudio Física en la 
 </div>
 
 ---
-
-## `Contact`
 
 <div align="center">
 
