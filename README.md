@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c87a5f&height=160&section=header&text=Alaska%20E.%20Gonz%C3%A1lez&fontSize=46&fontColor=f9f5d7&fontAlignY=52&desc=Security%20Researcher%20%C2%B7%20Automation%20Engineer%20%C2%B7%20Physics%20Student&descAlignY=76&descColor=ebdbb2&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c87a5f&height=160&section=header&text=Alaska%20E.%20Gonzalez&fontSize=46&fontColor=f9f5d7&fontAlignY=52&desc=Security%20Researcher%20%C2%B7%20Automation%20Engineer%20%C2%B7%20Physics%20Student&descAlignY=76&descColor=ebdbb2&descSize=15&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -16,24 +16,20 @@
 
 ---
 
-## `$ cat about.txt`
-
-Soy **Alaska Elaina Gonzalez**, 23 años, Mar del Plata. Estudio Física en la UNMDP mientras construyo herramientas de automatización, investigo superficies de ataque y mantengo una alergia crónica al código que no entiende por qué hace lo que hace.
+My name is **Alaska Elaina Gonzalez**, I’m 23 years old, and I’m from Mar del Plata. I’m studying physics at UNMDP while building automation tools, researching attack surfaces, and dealing with a chronic aversion to code that doesn’t understand why it does what it does.
 
 ---
 
-## `$ ls -l skills/`
-
 <div align="center">
 
-### — Seguridad & Análisis —
+### — Security & Analysis —
 
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-c87a5f?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Web_Pentesting-7e99a8?style=for-the-badge&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-a8889c?style=for-the-badge&logoColor=white)
 
-### — Automatización & Backend —
+### — Automation & Backend —
 
 ![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![asyncio](https://img.shields.io/badge/asyncio-3c3836?style=for-the-badge&logo=python&logoColor=white)
@@ -59,12 +55,6 @@ Soy **Alaska Elaina Gonzalez**, 23 años, Mar del Plata. Estudio Física en la U
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Alaska45l&show_icons=true&theme=gruvbox&hide_border=true&title_color=c87a5f&icon_color=7e99a8&text_color=d4c8b3&bg_color=1d1c1a&rank_icon=github&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaska45l&layout=compact&theme=gruvbox&hide_border=true&title_color=c87a5f&text_color=d4c8b3&bg_color=1d1c1a&langs_count=6" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Alaska45l&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=c87a5f&ring=c87a5f&fire=a8889c&currStreakLabel=d4c8b3&sideLabels=d4c8b3&background=1d1c1a" />
 
 </div>
@@ -72,6 +62,8 @@ Soy **Alaska Elaina Gonzalez**, 23 años, Mar del Plata. Estudio Física en la U
 ---
 
 <div align="center">
+
+### — Contact —
 
 [![Email](https://img.shields.io/badge/alaskagonzalez@outlook.com-c87a5f?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alaskagonzalez@outlook.com)
 &nbsp;
