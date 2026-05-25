@@ -4,58 +4,30 @@
 
 <br>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Alaska45l&style=flat-square&color=c87a5f&label=profile+views)](https://github.com/Alaska45l)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alaska45l-7e99a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaska45l)
-&nbsp;
-[![X](https://img.shields.io/badge/X-alaska45l-3c3836?style=flat-square&logo=x&logoColor=white)](https://x.com/alaska45l)
-&nbsp;
-[![Email](https://img.shields.io/badge/email-alaskagonzalez@outlook.com-c87a5f?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alaskagonzalez@outlook.com)
-
 </div>
-
----
-
-My name is **Alaska Elaina Gonzalez**, I’m 23 years old, and I’m from Mar del Plata. I’m studying physics at UNMDP while building automation tools, researching attack surfaces, and dealing with a chronic aversion to code that doesn’t understand why it does what it does.
 
 ---
 
 <div align="center">
 
-### — Security & Analysis —
-
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-c87a5f?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Web_Pentesting-7e99a8?style=for-the-badge&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-a8889c?style=for-the-badge&logoColor=white)
-
-### — Automation & Backend —
+### — Backend —
 
 ![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![asyncio](https://img.shields.io/badge/asyncio-3c3836?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+
 
 ### — Frontend & Web —
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### — Tooling —
-
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logoColor=white)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Alaska45l&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=c87a5f&ring=c87a5f&fire=a8889c&currStreakLabel=d4c8b3&sideLabels=d4c8b3&background=1d1c1a" />
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
 
 </div>
 
@@ -66,8 +38,6 @@ My name is **Alaska Elaina Gonzalez**, I’m 23 years old, and I’m from Mar de
 ### — Contact —
 
 [![Email](https://img.shields.io/badge/alaskagonzalez@outlook.com-c87a5f?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alaskagonzalez@outlook.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7e99a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaska45l)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alaska45l)
 &nbsp;
